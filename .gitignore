@@ -1,0 +1,16 @@
+# Environment secrets
+.env
+
+# Playwright browser state
+state.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# IDE
+.vscode/
+.idea/
