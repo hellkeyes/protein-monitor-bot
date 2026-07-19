@@ -1,8 +1,7 @@
 I got tired of playing of checking my fav protein powder's website everyday. The one I wanted has been out of stock for what feels like forever.
 Apparently that's a lifestyle now.
 So I wrote a bot. Now it suffers instead of me.  
-
-
+<br>
 -> What it does
 - Watches the product page like it has nothing better to do.
 - Refreshes it over and over so I don't have to.
@@ -13,23 +12,20 @@ So I wrote a bot. Now it suffers instead of me.
     - Lets me decide if I want to buy it. *(I'm financially fragile. The bot understands.)*
     - Selects Cash on Delivery.
     - Waits for my approval:
-      - *YES* → places the order.
-      - *NO* → cancels.
-        
-
+      - *YES* -> places the order.
+      - *NO* -> cancels.
+<br>
 -> Tech Stack
 - Python
 - Playwright
 - Discord.py
 - Threading Events
-  
-
+<br>
 -> Goal
 I just want my protein powder. 
 > *ding*
 > **Order placed.**
-
-
+<br>
 ### Disclaimer
 
 This project was built for personal use to monitor a specific product on **Only What's Needed**. (Plant Protein has been outta stock for ages!)
